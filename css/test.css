@@ -1,0 +1,43 @@
+html {
+    background-color: rgb(90, 133, 135);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 20px auto;
+    border: 5px solid rgb(13, 66, 66);
+    padding: 0px 10px 20px 20px;
+}
+
+h1 {
+    font-family: 'Noto Serif TC', serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Arial', 'Noto Sans TC', sans-serif;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-family: 'Times Romans';
+}
+
+ol {
+    font-size: 18px;
+    font-family: 'Arial', 'Noto Sans TC', sans-serif;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+
+img {
+    margin: 20px auto;
+    display: block;
+    background: rgb(186, 203, 152);
+    max-width: 70%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 100px;
+    padding: 5px;
+    width: 300px;
+}
